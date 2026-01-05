@@ -1,4 +1,4 @@
-{
+                                                                                                            {
   "mouseover": [{
     "selector": "#waifu-tool-hitokoto",
     "text": ["猜猜我要说些什么？", "我从青蛙王子那里听到了不少人生经验。"]
@@ -257,12 +257,12 @@
   },
   "models": [{
     "name": "Potion-Maker/Pio",
-    "paths": ["https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/model/Potion-Maker/Pio/index.json"],
-    "message": "来自 Potion Maker 的 Pio 酱 ~"
+    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d_api/model/Potion-Maker/Pio/index.json"],
+    "message": "欢迎来到动物世界"
   }, {
     "name": "Potion-Maker/Tia",
     "paths": ["https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/model/Potion-Maker/Tia/index.json"],
-    "message": "来自 Potion Maker 的 Tia 酱 ~"
+    "message": "动物城的小伙伴你最喜欢那个啊？"
   }, {
     "name": "HyperdimensionNeptunia",
     "paths": [
